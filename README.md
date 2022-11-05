@@ -1,7 +1,7 @@
 # odin_recipes
 
-a. Learn HTML Boilerplate <br />
-b. Element Tags and their semantics<br />
-c. Nest list items<br />
-d. Add hyperlinks and images<br />
+a. Learn HTML Boilerplate 
+b. Element Tags and their semantics
+c. Nest list items
+d. Add hyperlinks and images
 e. File Structure 
