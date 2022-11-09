@@ -1,0 +1,30 @@
+h1 {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  color: rgb(251, 182, 64);
+  /* text-align: center; */
+}
+
+h2 {
+  color: rgb(130, 224, 131);
+}
+
+img {
+  width: 500px;
+  height: auto;
+  background-color: rgb(235, 115, 115);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: rgb(129, 222, 226);
+}
+
+div {
+  text-align: center;
+  background-color: honeydew;
+}
